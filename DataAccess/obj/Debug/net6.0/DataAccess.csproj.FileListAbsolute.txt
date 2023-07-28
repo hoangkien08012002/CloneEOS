@@ -1,0 +1,15 @@
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\bin\Debug\net6.0\appsettings.json
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\FPT\KY_5\PRN211\EOS_Project_Final-master\EOS_Project_Final-master\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
