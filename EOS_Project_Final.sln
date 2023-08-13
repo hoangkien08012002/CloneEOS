@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormEOS", "FormEOS\FormEOS.csproj", "{A074E99C-9D40-440A-B6C2-0D1D9CC759D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{B6A7B3AC-1E3A-49DD-AA6F-6F88C36DBB27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageEOS", "ManageEOS\ManageEOS.csproj", "{D9997B65-0681-4B4E-B9DE-FADB9E9021E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A074E99C-9D40-440A-B6C2-0D1D9CC759D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A074E99C-9D40-440A-B6C2-0D1D9CC759D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A074E99C-9D40-440A-B6C2-0D1D9CC759D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A074E99C-9D40-440A-B6C2-0D1D9CC759D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A7B3AC-1E3A-49DD-AA6F-6F88C36DBB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A7B3AC-1E3A-49DD-AA6F-6F88C36DBB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A7B3AC-1E3A-49DD-AA6F-6F88C36DBB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A7B3AC-1E3A-49DD-AA6F-6F88C36DBB27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9997B65-0681-4B4E-B9DE-FADB9E9021E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9997B65-0681-4B4E-B9DE-FADB9E9021E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9997B65-0681-4B4E-B9DE-FADB9E9021E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9997B65-0681-4B4E-B9DE-FADB9E9021E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76EE8E58-098E-4B7C-8449-13B3C86BD190}
+	EndGlobalSection
+EndGlobal
